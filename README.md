@@ -4,17 +4,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(1).rar" style="text-decoration:none;">From exploration to control: learning object manipulation skills through novelty search and local adaptation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(2).pdf" style="text-decoration:none;">Data-Efficient Exploration, Optimization, and Modeling of Diverse Designs through Surrogate-Assisted Illumination</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(3).pdf" style="text-decoration:none;">Behavioral Repertoires for Soft Tensegrity Robots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(4).pdf" style="text-decoration:none;">Scaling MAP-Elites to Deep Neuroevolution</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(5).pdf" style="text-decoration:none;">Discovering the Elite Hypervolume by Leveraging Interspecies Correlation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
 for interconnected web services</a></li>
