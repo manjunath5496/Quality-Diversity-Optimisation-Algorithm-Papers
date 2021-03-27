@@ -86,72 +86,64 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(49).pdf" style="text-decoration:none;">QED: using Quality-Environment-Diversity to evolve resilient robot swarms</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(50).pdf" style="text-decoration:none;">Fast and stable MAP-Elites in noisy domains using deep grids</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(51).pdf" style="text-decoration:none;">Quality Diversity: a new Frontier for evolutionary computation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(52).pdf" style="text-decoration:none;">Evolution of a Functionally Diverse Swarm via a Novel Decentralised Quality-Diversity Algorithm</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(53).pdf" style="text-decoration:none;">Baba is Y'all: Collaborative Mixed-Initiative Level Design</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(54).pdf" style="text-decoration:none;">Transforming Exploratory Creativity with DeLeNoX </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(55).pdf" style="text-decoration:none;">Gaining Insight into Quality Diversity</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(56).pdf" style="text-decoration:none;">A comparison of illumination algorithms in unbounded spaces </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(57).pdf" style="text-decoration:none;">Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(58).pdf" style="text-decoration:none;">Comparing reliability of grid-based Quality-Diversity algorithms using artificial landscapes</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(59).pdf" style="text-decoration:none;">Learning Highly Diverse Robot Throwing Movements through Quality Diversity Search</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(60).pdf" style="text-decoration:none;">Policy search in continuous action domains: An overview </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(61).pdf" style="text-decoration:none;">Multi-objective Analysis of MAP-Elites Performance</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(62).pdf" style="text-decoration:none;">Exploring Self-Assembling Behaviors in a Swarm of Bio-micro-robots using Surrogate-Assisted MAP-Elites</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(63).pdf" style="text-decoration:none;">Mech-Elites: Illuminating the Mechanic Space of GVGAI</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(64).pdf" style="text-decoration:none;">Exploration and Exploitation in Symbolic Regression using Quality-Diversity and Evolutionary Strategies Algorithms</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(65).pdf" style="text-decoration:none;">Comparing multimodal optimization and illumination </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(66).pdf" style="text-decoration:none;">Automatic Calibration of Artificial Neural Networks for Zebrafish Collective Behaviours using a Quality Diversity Algorithm</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(67).pdf" style="text-decoration:none;">Constrained Novelty Search: A Study on Game Content Generation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(68).pdf" style="text-decoration:none;">Mapping structural diversity in networks sharing a given degree distribution and global clustering: Adaptive resolution grid search evolution with Diophantine equation-based mutations</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(69).pdf" style="text-decoration:none;">Abandoning Objectives: Evolution through the Search for Novelty Alone</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(70).pdf" style="text-decoration:none;">Novelty-based Multiobjectivization</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(71).pdf" style="text-decoration:none;">Evaluating MAP-Elites on Constrained Optimization Problems</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(72).pdf" style="text-decoration:none;">Rapid Phenotypic Landscape Exploration through Hierarchical Spatial Partitioning</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(73).pdf" style="text-decoration:none;">Unsupervised Learning and Exploration of Reachable Outcome Space</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(74).pdf" style="text-decoration:none;">Optimisation and Illumination of a Real-world Workforce Scheduling and Routing Application via Map-Elites</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(75).pdf" style="text-decoration:none;">Confronting the Challenge of Quality Diversity</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(76).pdf" style="text-decoration:none;">Searching for Quality Diversity when Diversity is Unaligned with Quality</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(77).pdf" style="text-decoration:none;">Exploring Genetic Programming Systems with MAP-Elites</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(78).pdf" style="text-decoration:none;">Behavioral Repertoire via Generative Adversarial Policy Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(79).pdf" style="text-decoration:none;">Towards semi-episodic learning for robot damage recovery</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quality-Diversity-Optimisation-Algorithm-Papers/blob/master/m(80).pdf" style="text-decoration:none;">AlphaStar: An Evolutionary Computation Perspective</a></li> 
  
  
  </ul>
